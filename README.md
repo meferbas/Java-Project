@@ -1,5 +1,5 @@
 # JavaProject
-A simple colonies figthing project with using Java language.
+A simple colonies fighthing project with using a Java language.
 # Contents Of Project
 -The numbers entered as input create the population of the colonies.
 -Each number you write with a space represents the population of a colony.
