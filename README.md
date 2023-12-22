@@ -1,4 +1,4 @@
-# JavaProject
+# Principles-Of-Programming-Languages-Project
 A simple colonies fighthing project with using a Java language.
 # Contents Of Project
 - The numbers entered as input create the population of the colonies.
